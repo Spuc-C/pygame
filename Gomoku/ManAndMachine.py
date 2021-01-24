@@ -71,7 +71,7 @@ class Checkerboard:
         return count >= 5
 
 
-SIZE = 30  # 棋盘每个点时间的间隔
+SIZE = 30  # 棋盘每个点之间的间隔
 Line_Points = 19  # 棋盘每行/每列点数
 Outer_Width = 20  # 棋盘外宽度
 Border_Width = 4  # 边框宽度
